@@ -1,2 +1,2 @@
 # Word2Vec
-This project written by Shay Palachy and was givven after session on Word2Vec for DataHack's DataNights program
+This exercise written by Shay Palachy and was givven after session on Word2Vec for DataHack's DataNights program. Simple task for NLP beginners.
